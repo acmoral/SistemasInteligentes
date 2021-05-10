@@ -1,2 +1,3 @@
-# SistemasInteligentes
-This repository contains the exercises and assignments for this class, and introduction to machine learning
+# Sistemas Inteligentes
+This repository contains the exercises and assignments for this class, and introduction to machine learning.
+In this course offered by professor Fabio A. González O. https://dis.unal.edu.co/~fgonza/, we explored first the notion of Artificial intelligence and how it's popular meaning can vary from the technical and more grounded concept : an optimization problem. In the introductury topics we learned about search algorithms, supervised learning,linear classification,probabilistic models such as Naive Bayes, , non linear classifications with kmeans, neural networks, Suport vector machines and deep learning. this concepts where are studied under the glass of an introductory multidisciplinary course, but the results at the end were interesting and I gained an insight beyond the physicist perspective which sometimes can be far from the useful engineer's perspective more oriented to industry and marketing. I still have much more to learn and far more projects on this subject will come.
